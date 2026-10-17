@@ -1,4 +1,4 @@
-# ⚡ ShopEase — E-Commerce Order Management System
+# ⚡ Sahara— E-Commerce Order Management System
 
 A full-stack MERN (MongoDB, Express, React, Node.js) e-commerce application with duplicate-order protection, simulated payment, admin dashboard, and email notifications.
 
